@@ -1,0 +1,13 @@
+TheSelfSeries/
+├── README.md
+├── artworks/
+│   └── (place your artwork images here)
+├── metadata/
+│   └── (JSON metadata files for each artwork)
+├── audio/
+│   └── (audio files for AI voice narrations, if available)
+└── legacy_works/
+    ├── 2014/
+    │   ├── DreamMemoryInterface.png
+    │   ├── BreathTextUniverse.png
+    │   └── (other legacy files)
