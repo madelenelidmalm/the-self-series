@@ -1,0 +1,13 @@
+// content/self-series/the-code-of-sunne.json
+{
+  "title": "The Code of Sunne",
+  "slug": "the-code-of-sunne",
+  "description": "An exploration of identity through frequency and form.",
+  "image": "/images/self-series/the-code-of-sunne.jpg",
+  "tags": ["self-series", "identity", "abstract"],
+  "metadata": {
+    "created": "2025-03-25",
+    "medium": "Digital mixed media",
+    "dimensions": "1920x1080px"
+  }
+}
